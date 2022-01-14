@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrmjpatra
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming you can say a beginner
-- 💞️ I’m looking to collaborate not someone else
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me mrmjpatra1@gmail.com
 
 <!---
