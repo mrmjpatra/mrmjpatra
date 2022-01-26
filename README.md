@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mrmjpatra
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming you can say a beginner
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me mrmjpatra1@gmail.com
+- 👀 Interested in programming
+- 🌱 Currently doing MCA @IGIT
+- 💞️ Always ready for New
+- 📫 Reach me @mrmjpatra
 
 <!---
 mrmjpatra/mrmjpatra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
