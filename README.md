@@ -1,9 +1,6 @@
 
 # 💫 About Me:
 🔭 I’m currently working as React JS, Next JS & Spring Boot Developer<br>👯 I’m waiting for someone to help<br>💬 Ask me about<br>⚡ Fun fact
-
-
-## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrmjpatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmjpatra" height="30" width="40" /></a>
