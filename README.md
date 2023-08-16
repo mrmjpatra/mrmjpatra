@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working React JS & Spring Boot with Developers<br>👯 I’m waiting for someone to help<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working as React JS, Next JS & Spring Boot Developer<br>👯 I’m waiting for someone to help<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
